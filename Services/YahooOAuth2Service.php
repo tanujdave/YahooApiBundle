@@ -1,6 +1,7 @@
 <?php
 
-namespace YahooApiBundle\Services;
+namespace Yahoo\ApiBundle\Services;
+
 
 class YahooOAuth2Service {
 

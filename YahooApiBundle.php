@@ -1,6 +1,6 @@
 <?php
 
-namespace YahooApiBundle;
+namespace Yahoo\ApiBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

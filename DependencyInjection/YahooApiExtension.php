@@ -1,6 +1,6 @@
 <?php
 
-namespace YahooApiBundle\DependencyInjection;
+namespace Yahoo\ApiBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
