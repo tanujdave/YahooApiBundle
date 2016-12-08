@@ -1,0 +1,22 @@
+{
+  "name": "agupta/yahoo-api-bundle",
+  "type": "symfony-bundle",
+  "description": "Yahoo OAuth2 protected APIs to fetch contacts",
+  "keywords": ["yahoo","api","contacts","symfony","bundle"  ],
+  "homepage": "https://github.com/ajay-gupta/YahooApiBundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ajay Gupta",
+      "email": "agupta.bliss@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.8"
+  },
+  "autoload": {
+    "psr-0": { "Yahoo\\ApiBundle": "" }
+  },
+  "minimum-stability": "dev",
+  "target-dir": "Yahoo/ApiBundle"
+}

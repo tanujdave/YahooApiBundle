@@ -1,0 +1,4 @@
+services:
+    AG.Yahoo.OAuth2.Service:
+        class: YahooApiBundle\Services\YahooOAuth2Service
+        arguments: [%yahoo_api%]

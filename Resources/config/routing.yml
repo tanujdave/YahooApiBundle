@@ -1,0 +1,11 @@
+yahoo_authorization:
+    path:     /yahoo_authorization
+    defaults: { _controller: YahooApiBundle:Default:YahooAuthorization }
+
+yahoo_access_token:
+    path:     /yahoo_access_token
+    defaults: { _controller: YahooApiBundle:Default:YahooAccessToken }
+
+yahoo_contacts:
+    path:     /yahoo_contacts
+    defaults: { _controller: YahooApiBundle:Default:YahooContacts }
