@@ -31,7 +31,7 @@ class DefaultController extends Controller
 		return new JsonResponse('Success');
 	}
 
-	public function YahooFetchContactsAction(Request $request)
+	public function YahooContactsAction(Request $request)
 	{
 		$yahooService = $this->get('AG.Yahoo.OAuth2.Service');
 		$code = $request->get('code',null);
