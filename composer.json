@@ -1,5 +1,5 @@
 {
-  "name": "agupta/yahoo-api-bundle",
+  "name": "tanujdave/yahoo-api-bundle",
   "type": "symfony-bundle",
   "description": "Yahoo OAuth2 protected APIs to fetch contacts",
   "keywords": ["yahoo","api","contacts","symfony","bundle"  ],
